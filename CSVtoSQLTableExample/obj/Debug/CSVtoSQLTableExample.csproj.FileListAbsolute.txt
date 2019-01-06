@@ -1,0 +1,7 @@
+C:\Users\kartik909\source\repos\CSVtoSQLTableExample\CSVtoSQLTableExample\bin\Debug\CSVtoSQLTableExample.exe.config
+C:\Users\kartik909\source\repos\CSVtoSQLTableExample\CSVtoSQLTableExample\bin\Debug\CSVtoSQLTableExample.exe
+C:\Users\kartik909\source\repos\CSVtoSQLTableExample\CSVtoSQLTableExample\bin\Debug\CSVtoSQLTableExample.pdb
+C:\Users\kartik909\source\repos\CSVtoSQLTableExample\CSVtoSQLTableExample\obj\Debug\CSVtoSQLTableExample.csprojAssemblyReference.cache
+C:\Users\kartik909\source\repos\CSVtoSQLTableExample\CSVtoSQLTableExample\obj\Debug\CSVtoSQLTableExample.csproj.CoreCompileInputs.cache
+C:\Users\kartik909\source\repos\CSVtoSQLTableExample\CSVtoSQLTableExample\obj\Debug\CSVtoSQLTableExample.exe
+C:\Users\kartik909\source\repos\CSVtoSQLTableExample\CSVtoSQLTableExample\obj\Debug\CSVtoSQLTableExample.pdb
